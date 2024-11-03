@@ -1,0 +1,4 @@
+functions-framework==3.*
+google-generativeai==0.*
+requests==2.*
+flask==2.*
