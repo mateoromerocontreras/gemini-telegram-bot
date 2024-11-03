@@ -1,5 +1,4 @@
-```markdown
-```
+
 # Telegram Bot with Gemini API Integration
 
 This project is a Telegram Bot that uses the Gemini API to generate responses to user messages. The bot is hosted on Google Cloud Functions.
